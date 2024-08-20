@@ -47,3 +47,7 @@ AIFFEL_quest_cr
     ├── Review08
     └── Review09
 ```
+---
+# AIFFEL Campus Online Code Peer Review
+- 코더 : 김국화
+- 리뷰어 : 최세영
