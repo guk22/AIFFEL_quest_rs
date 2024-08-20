@@ -11,9 +11,9 @@ AIFFEL_quest_cr
 │   ├── Quest04
 │   │   ├── .ipynb
 │   │   └── README.md
-│   ├── Quest05
-│   │   ├── .ipynb
-│   │   └── README.md
+│   └── Quest05
+│       ├── .ipynb
+│       └── README.md
 ├── Exploration
 │   ├── Ex01
 │   │   ├── .ipynb
@@ -33,9 +33,9 @@ AIFFEL_quest_cr
 │   ├── Ex06
 │   │   ├── .ipynb
 │   │   └── README.md
-│   ├── Ex07
-│   │   ├── .ipynb
-│   │   └── README.md
+│   └── Ex07
+│       ├── .ipynb
+│       └── README.md
 └── GoingDeeper
     ├── Review01
     ├── Review02
